@@ -1,0 +1,4 @@
+# Rules for Emby policy group
+DOMAIN-SUFFIX,misty.cx
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,embyplus.org
