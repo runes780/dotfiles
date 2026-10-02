@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-KEYWORD,lyezi
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,emby.moe
+IP-CIDR,172.67.201.111,no-resolve
