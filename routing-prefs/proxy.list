@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,emby.moe
 IP-CIDR,172.67.201.111/32,no-resolve
 IP-CIDR,104.21.21.242/32,no-resolve
+DOMAIN-SUFFIX,embymv.cc
+IP-CIDR,152.53.243.160/32,no-resolve
